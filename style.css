@@ -105,7 +105,8 @@
 /* Main tags */
 
 body {
-	background-image:url("darkwall.png") repeat !important;
+	background-image: url("darkwall.png");
+	background-repeat:repeat;
 	margin: 0;
 }
 
