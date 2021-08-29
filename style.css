@@ -258,6 +258,7 @@ ul {
 	width: 699px;
 	margin-top: 40px;
 	margin-left: 5px;
+	position: fixed;
 }
 	.header_menu a{
 		text-decoration: none;
